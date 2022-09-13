@@ -20,7 +20,9 @@ The result
 
 ## Example usage
 
+```yaml
 uses: actions/run-pup-action@v1
 with:
   url: 'https://jazzido.com'
   selector: 'b'
+```
